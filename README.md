@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlphaProductions1
+- 👀 I’m interested in making discord bots
+- 🌱 I’m currently learning how to use discord.py
+- 💞️ I’m looking to collaborate on discord bots
+- 📫 How to reach me https://discord.gg/gdnFdMFvNa
